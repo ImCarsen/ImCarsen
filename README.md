@@ -19,6 +19,8 @@ I love photography, videography, technology, gaming and music. I am always tryin
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-000000?style=flat-square&logo=Kotlin" />
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=Vite" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=SQLite" />
 </p>
 
 <p align=center><img alt="Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=ImCarsen.visitor-badge" /></p>
