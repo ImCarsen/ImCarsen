@@ -23,4 +23,17 @@ I love photography, videography, technology, gaming and music. I am always tryin
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=SQLite" />
 </p>
 
+<p align=center>
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-000000?style=flat-square&logo=AdobePhotoshop" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Premiere Pro-000000?style=flat-square&logo=AdobePremierePro" />
+  <img alt="IntelliJ Idea" src="https://img.shields.io/badge/-IntelliJ Idea-000000?style=flat-square&logo=IntelliJIdea" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-000000?style=flat-square&logo=VisualStudioCode" />
+</p>
+
+<p align=center>
+  <img alt="Windows 11" src="https://img.shields.io/badge/-Windows 11-000000?style=flat-square&logo=Windows11" />
+  <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-000000?style=flat-square&logo=ArchLinux" />
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-000000?style=flat-square&logo=Debian" />
+</p>
+
 <p align=center><img alt="Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=ImCarsen.visitor-badge" /></p>
