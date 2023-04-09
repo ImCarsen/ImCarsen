@@ -1,6 +1,6 @@
 # <p align=center><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> Hey, I’m Carsen!</p>
 <p align=center>Photographer - Videographer - Developer</p>
-<p align=center>![visitors](https://visitor-badge.glitch.me/badge?page_id=ImCarsen.visitor-badge)</p>
+<p align=center><img alt="Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=ImCarsen.visitor-badge" /></p>
 
 ### About me:
 I am an entertainer and content creator at heart. I simply love to create, whether it is goofy, or serious. My goal is to grow as an individual and maybe make some days better while I do it.
