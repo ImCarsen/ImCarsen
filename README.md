@@ -7,11 +7,6 @@ I am an entertainer and content creator at heart. I simply love to create, wheth
 
 I love photography, videography, technology, gaming and music. I am always trying to think up entertaining concepts and ideas for content and value constructive criticism highly.
 
-### Links
-- Site: [www.imcarsen.com](https://www.imcarsen.com/)
-- Twitter: [@ImCarsen_](https://twitter.com/ImCarsen_)
-- Twitch: [ImCarsen](https://www.twitch.tv/imcarsen)
-- Github: [@ImCarsen](https://github.com/ImCarsen)
 
 <p align=center>
   <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python" />
