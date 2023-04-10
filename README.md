@@ -31,4 +31,4 @@ I love photography, videography, technology, gaming and music. I am always tryin
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-000000?style=flat-square&logo=Debian" />
 </p>
 
-<p align=center><img alt="Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=ImCarsen.visitor-badge" /></p>
+<p align=center><img alt="Visitor Badge" src="https://visitor-badge.glitch.me/badge?page_id=ImCarsen.visitor-badge&right_color=Grey&left_color=#000000" /></p>
