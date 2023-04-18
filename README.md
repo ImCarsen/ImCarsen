@@ -12,6 +12,7 @@ I love photography, videography, technology, gaming and music. I am always tryin
   <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python" />
   <img alt="Lue" src="https://img.shields.io/badge/-Lua-000000?style=flat-square&logo=Lua" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-000000?style=flat-square&logo=Kotlin" />
+  <img alt="C Sharp" src="https://img.shields.io/badge/-C%20Sharp-000000?style=flat-square&logo=CSharp" />
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=Vite" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js" />
