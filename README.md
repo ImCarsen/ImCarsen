@@ -28,7 +28,7 @@ I love photography, videography, technology, gaming and music. I am always tryin
 
 <p align=center>
   <img alt="Windows 11" src="https://img.shields.io/badge/-Windows 11-000000?style=flat-square&logo=Windows11" />
-  <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-000000?style=flat-square&logo=ArchLinux" />
+  <img alt="Nix OS" src="https://img.shields.io/badge/-Nix OS-000000?style=flat-square&logo=NixOS" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-000000?style=flat-square&logo=Debian" />
 </p>
 
