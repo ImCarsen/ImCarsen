@@ -9,9 +9,10 @@ I love photography, videography, technology, gaming and music. I am always tryin
 
 
 <p align=center>
+  <img alt="Go" src="https://img.shields.io/badge/-Go-000000?style=flat-square&logo=Go" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python" />
   <img alt="Lue" src="https://img.shields.io/badge/-Lua-000000?style=flat-square&logo=Lua" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=Java" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=Oracle" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-000000?style=flat-square&logo=Kotlin" />
   <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=React" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=Vite" />
