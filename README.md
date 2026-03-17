@@ -8,29 +8,21 @@ I love photography, videography, technology, gaming and music. I am always tryin
 
 <p align=center>
   <img alt="Go" src="https://img.shields.io/badge/-Go-000000?style=flat-square&logo=Go" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=Oracle" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python" />
-  <img alt="Lue" src="https://img.shields.io/badge/-Lua-000000?style=flat-square&logo=Lua" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-000000?style=flat-square&logo=Kotlin" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-000000?style=flat-square&logo=Javascript" />
-  <img alt="SolidJS" src="https://img.shields.io/badge/-SolidJS-000000?style=flat-square&logo=Solid" />
-  <img alt="Wails" src="https://img.shields.io/badge/-Wails-000000?style=flat-square&logo=Wails" />
-  <img alt="Vite" src="https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=Vite" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=Node.js" />
+  <img alt="Zig" src="https://img.shields.io/badge/-Zig-000000?style=flat-square&logo=Zig" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=Gradle" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=MongoDB" />
 </p>
 
 <p align=center>
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-000000?style=flat-square&logo=AdobePhotoshop" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Premiere Pro-000000?style=flat-square&logo=AdobePremierePro" />
+  <img alt="Premiere Pro" src="https://img.shields.io/badge/-Premiere Pro-000000?style=flat-square&logo=AdobePremierePro" />
   <img alt="IntelliJ Idea" src="https://img.shields.io/badge/-IntelliJ Idea-000000?style=flat-square&logo=IntelliJIdea" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS Code-000000?style=flat-square&logo=VisualStudioCode" />
+  <img alt="Zed" src="https://img.shields.io/badge/-Zed-000000?style=flat-square&logo=zedindustries" />
 </p>
 
 <p align=center>
-  <img alt="Windows 11" src="https://img.shields.io/badge/-Windows 11-000000?style=flat-square&logo=Windows11" />
-  <img alt="Nix OS" src="https://img.shields.io/badge/-Nix OS-000000?style=flat-square&logo=NixOS" />
-  <img alt="Debian" src="https://img.shields.io/badge/-Debian-000000?style=flat-square&logo=Debian" />
+  <img alt="Arch" src="https://img.shields.io/badge/-Arch-000000?style=flat-square&logo=archlinux" />
+  <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-000000?style=flat-square&logo=fedora" />
 </p>
 
 <p align=center><img alt="Visitor Badge" src="https://komarev.com/ghpvc/?username=imcarsen&color=000000" /></p>
